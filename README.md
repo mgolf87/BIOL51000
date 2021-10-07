@@ -1,9 +1,13 @@
 # BIOL51000
 Lewis University Fall 2, 2020
-###### Week 3 Coding Assignment: Measuring Conservation, Calculating Substitution Matrices, Calculating Distance Matrices
+##### MGolf_BIOL51000_A3.ipynb 
+###### Week 3 Assignment: Measuring Conservation, Calculating Substitution Matrices, Calculating Distance Matrices
+##### MGolf_BIOL51000_A4.ipynb 
 ###### Week 4 Assignment: Microarray Analysis
-###### Week 5 Coding Assignment: Calculating RMSD and Aligning a Structure Ensemble
-###### Week 6: Image Processing and GUIs
+##### MGolf_BIOL51000_A5.ipynb 
+###### Week 5 Assignment: Calculating RMSD and Aligning a Structure Ensemble
+##### MGolf_BIOL51000_A6.ipynb 
+###### Week 6 Assignment: Image Processing and GUIs
 
 
 
