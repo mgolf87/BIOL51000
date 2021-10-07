@@ -1,4 +1,4 @@
-# BIOL51000
+# BIOL51000 - Data Systems in the Life Sciences
 Lewis University Fall 2, 2020
 
 <br />
