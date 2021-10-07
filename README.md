@@ -10,7 +10,8 @@ Lewis University Fall 2, 2020
 ###### Week 6 Assignment: Image Processing and GUIs
 ##### Alignments.py
 ###### calcSeqIdentity; calcSeqSimilarity; pairAlignScore; sequenceAlign; makeBlastDatabase; blastSearch; makeBlastDatabase
-
+##### MultipleAlign.py
+###### consensus; profile; profileAlign; simpleProfileMultipleAlign; consensusMultipleAlign
 
 
 ###### .py files are adapted from Python for Biology, Tim Stevens
