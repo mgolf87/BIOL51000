@@ -8,7 +8,8 @@ Lewis University Fall 2, 2020
 ###### Week 5 Assignment: Calculating RMSD and Aligning a Structure Ensemble
 ##### MGolf_BIOL51000_A6.ipynb 
 ###### Week 6 Assignment: Image Processing and GUIs
-
+##### Alignments.py
+###### calcSeqIdentity; calcSeqSimilarity; pairAlignScore; sequenceAlign; makeBlastDatabase; blastSearch; makeBlastDatabase
 
 
 
