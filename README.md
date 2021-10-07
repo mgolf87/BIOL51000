@@ -36,7 +36,18 @@ Lewis University Fall 2, 2020
 ###### readFastaFile (fragments); readFastaFile (sequence); calcCentroid; printPubmedAbstracts; writeSingleFastaSequence; writeFastaSeqs; writeListFile; writeChromosomeRegions; readListFile; readChromosomeRegions; writeCsvFile; readCsvFile; findFiles; removeFiles
 ##### HTSequences.py
 ###### downloadFile; downloadGenomeFiles; uncompressGzFile; indexGenome; genomeAlign
-
+##### MachineLearning.py
+###### getFeatureDistance; kNearestNeighbour; kNearestNeighbour (numpy); selfOrganisingMap; neuralNetPredict; neuralNetTrain; convertSeqToVector; kernelGauss; kernelLinear; svmTrain; svmPredict; svmSeparation
+##### Probability.py
+###### binomialProbability; getNextGenPop; Viterbi; forwardBackward
+##### Sequences.py
+###### proteinTranslation; estimateMolMass; matchDnaProfile; calcGcContent; hydrophobicitySearch; relativeEntropySearch; estimateCharge; estimateIsoelectric; calcRelativeEntropy
+##### SeqVariation.py
+###### getConservation; makeSimilarityString; getAlignProperties; calcSubstitutionMatrix; getDistanceMatrix; getJoinPair; getDistToJunction; neighbourJoinTree; treeProfileMultipleAlign; ancestorResidue; calcSubstitutionRates; calcActivePassive
+##### Statistics.py
+###### getMedian; binomialTailTest; poissonTailTest; normalTailTest; zTestMean; tConfInterval
+##### Structures.py
+###### downloadPDB; writeStructureToFile; getCenterOfMass; rotateStructure; getAtomCoords; rotateStructureNumPy; affineTransformStructure; findCloseAtoms; getPhiPsi; filterSubStructure; copyStructure; alignCoords; calcRmsds; superimposeCoords; superimposeStructures; getChainSequence; seqStructureBackboneAlign; findCloseAtomsBioPy
 
 <br />
 
