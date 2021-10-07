@@ -32,6 +32,8 @@ Lewis University Fall 2, 2020
 ###### consensus; profile; profileAlign; simpleProfileMultipleAlign; consensusMultipleAlign
 ##### Clustering.py
 ###### euclideanDist; findNeighbours; simpleCluster; dbScanCluster; kMeans; kMeansSpread; jumpMethodCluster; principleComponentAnalysis; extractPrincipleComponent; twoClassLda
+##### Files.py
+###### readFastaFile (fragments); readFastaFile (sequence); calcCentroid; printPubmedAbstracts; writeSingleFastaSequence; writeFastaSeqs; writeListFile; writeChromosomeRegions; readListFile; readChromosomeRegions; writeCsvFile; readCsvFile; findFiles; removeFiles
 
 
 <br />
