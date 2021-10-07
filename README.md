@@ -51,4 +51,4 @@ downloadPDB; writeStructureToFile; getCenterOfMass; rotateStructure; getAtomCoor
 
 <br />
 
-#### .py files are adapted from Python for Biology, Tim Stevens
+#### code is adapted from Python for Biology, Tim Stevens
